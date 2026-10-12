@@ -1,7 +1,7 @@
 {
   "name": "Peters Jungle War",
   "short_name": "Peters Jungle War",
-  "description": "Jump-and-Run mit MC Peter: 20 Level, 10 Bosse, Rap-Beat.",
+  "description": "Jump-and-Run mit MC Peter: 3 Welten, 20 Level, 30 Bosse, Rap-Beat.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "fullscreen",
