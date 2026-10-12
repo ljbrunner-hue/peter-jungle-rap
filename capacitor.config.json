@@ -1,0 +1,12 @@
+{
+  "appId": "at.peter.junglerap",
+  "appName": "Peters Jungle War",
+  "webDir": "www",
+  "backgroundColor": "#8fd3ff",
+  "ios": { "contentInset": "never", "backgroundColor": "#8fd3ff" },
+  "android": { "backgroundColor": "#8fd3ff" },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 0, "backgroundColor": "#8fd3ff" },
+    "StatusBar": { "overlaysWebView": true }
+  }
+}
